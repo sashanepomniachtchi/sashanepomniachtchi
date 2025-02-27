@@ -4,24 +4,26 @@
 
 ###
 
+<br clear="both">
+
 <div align="center">
   <a href="https://t.me/sashanepomniachtchi" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="45" height="30" alt="telegram logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="41" height="30" alt="telegram logo"  />
   </a>
   <a href="https://www.youtube.com/@sashanepo" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="45" height="30" alt="youtube logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="41" height="30" alt="youtube logo"  />
   </a>
-  <a href="https://www.instagram.com/sasha_nepomniachtchi" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="30" alt="instagram logo" />
+  <a href="https://www.instagram.com/sasha_nepomniachtchi?igsh=MWUwNGxzeDZsODA2Yg%3D%3D&utm_source=qr" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="41" height="30" alt="instagram logo"  />
   </a>
   <a href="https://www.twitch.tv/sasha_nepomniachtchi" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="45" height="30" alt="twitch logo" />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitch/default.svg" width="41" height="30" alt="twitch logo"  />
   </a>
-  <a href="https://x.com/sashanepo" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="45" height="30" alt="twitter logo" />
+  <a href="https://x.com/sashanepo?s=11" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="41" height="30" alt="twitter logo"  />
   </a>
-  <a href="https://www.facebook.com/sashanepomniachtchi" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="45" height="30" alt="facebook logo" />
+  <a href="https://www.facebook.com/share/15ftp4ksox/?mibextid=wwXIfr" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="41" height="30" alt="facebook logo"  />
   </a>
 </div>
 
@@ -62,14 +64,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="47" alt="githubactions logo"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=default&username=sashanepomniachtchi" alt="Layout with last medium posts"  />
-</div>
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
