@@ -1,6 +1,6 @@
-<div align="right">
-  <img height="200" src="https://github.com/sashanepomniachtchi/sashanepomniachtchi/blob/main/girthib%20banner.png?raw=true"  />
-</div>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sashanepomniachtchi/sashanepomniachtchi/main/girthib%20banner.png" alt="Banner" width="100%" />
+</p>
 
 ###
 
